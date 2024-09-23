@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add Greeter" />
+    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add GreeterTest.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/new.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/Greeter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/Greeter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/GreeterTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/GreeterTest.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727085539837</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Greeter">
+      <created>1727085593345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727085593345</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add GreeterTest.kt">
+      <created>1727085833306</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727085833306</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,9 +111,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add GreeterTest.kt" />
     <MESSAGE value="add Greeter.kt" />
     <MESSAGE value="add Greeter" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Greeter" />
+    <MESSAGE value="add GreeterTest.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add GreeterTest.kt" />
   </component>
 </project>
