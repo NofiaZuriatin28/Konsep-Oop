@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add InheritanceC.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InheritaceD.kt" afterDir="false" />
+    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add InheritanceE.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InheritanceF.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,16 +39,9 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InheritanceEKt">
+  <component name="RunManager" selected="Kotlin.InheritanceFKt">
     <configuration name="InheritaceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritaceDKt" />
-      <module name="KonsepOop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="InheritanceAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceAKt" />
       <module name="KonsepOop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,6 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceFKt" />
+      <module name="KonsepOop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Inheritance_BKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.Inheritance_BKt" />
       <module name="KonsepOop" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceFKt" />
         <item itemvalue="Kotlin.InheritanceEKt" />
         <item itemvalue="Kotlin.InheritaceDKt" />
         <item itemvalue="Kotlin.InheritanceCKt" />
         <item itemvalue="Kotlin.Inheritance_BKt" />
-        <item itemvalue="Kotlin.InheritanceAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -212,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727319871633</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add InheritanceD.kt">
+      <created>1727320061000</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727320061000</updated>
+    </task>
+    <task id="LOCAL-00019" summary="add InheritanceE.kt">
+      <created>1727320220027</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727320220027</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +256,8 @@
     <MESSAGE value="add InheritanceA.kt" />
     <MESSAGE value="add InheritanceB.kt" />
     <MESSAGE value="add InheritanceC.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add InheritanceC.kt" />
+    <MESSAGE value="add InheritanceD.kt" />
+    <MESSAGE value="add InheritanceE.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add InheritanceE.kt" />
   </component>
 </project>
