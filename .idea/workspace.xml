@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add InterfaceA.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfaceB.kt" afterDir="false" />
+    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add InterfaceC.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfaceD.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,16 +37,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.InterfaceCKt">
+  <component name="RunManager" selected="Kotlin.InterfaceDKt">
     <configuration name="AbstractClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AbstractClassKt" />
-      <module name="KonsepOop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierAKt" />
       <module name="KonsepOop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterfaceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InterfaceDKt" />
+      <module name="KonsepOop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceDKt" />
         <item itemvalue="Kotlin.InterfaceCKt" />
         <item itemvalue="Kotlin.InterfaceBKt" />
         <item itemvalue="Kotlin.InterfaceAKt" />
         <item itemvalue="Kotlin.AbstractClassKt" />
-        <item itemvalue="Kotlin.AccessModifierAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +288,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727415053573</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="add InterfaceB.kt">
+      <created>1727415205709</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1727415205709</updated>
+    </task>
+    <task id="LOCAL-00030" summary="add InterfaceC.kt">
+      <created>1727415399109</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727415399109</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,8 +317,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Greeter.kt" />
-    <MESSAGE value="add Greeter" />
     <MESSAGE value="add GreeterTest.kt" />
     <MESSAGE value="add PersonA.kt" />
     <MESSAGE value="add PersonB.kt" />
@@ -328,6 +340,8 @@
     <MESSAGE value="add AccessModifierA.kt" />
     <MESSAGE value="add AbstractClass.kt" />
     <MESSAGE value="add InterfaceA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add InterfaceA.kt" />
+    <MESSAGE value="add InterfaceB.kt" />
+    <MESSAGE value="add InterfaceC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add InterfaceC.kt" />
   </component>
 </project>
