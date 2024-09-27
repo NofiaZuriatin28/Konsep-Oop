@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add NestedInnerClassB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassA.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add DataClassB.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassC.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.DataClassBKt">
+  <component name="RunManager" selected="Kotlin.DataClassCKt">
     <configuration name="DataClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassAKt" />
       <module name="KonsepOop" />
@@ -48,6 +47,13 @@
     </configuration>
     <configuration name="DataClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassBKt" />
+      <module name="KonsepOop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassCKt" />
       <module name="KonsepOop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -67,20 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.NestedInnerClassKt" />
-      <module name="KonsepOop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassCKt" />
         <item itemvalue="Kotlin.DataClassBKt" />
         <item itemvalue="Kotlin.DataClassAKt" />
         <item itemvalue="Kotlin.NesteInnerClassBKt" />
         <item itemvalue="Kotlin.NestedInnerClassAKt" />
-        <item itemvalue="Kotlin.NestedInnerClassKt" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +330,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727416052114</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add DataClassA.kt">
+      <created>1727417332158</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1727417332158</updated>
+    </task>
+    <task id="LOCAL-00036" summary="add DataClassB.kt">
+      <created>1727417409038</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727417409038</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,8 +359,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add PersonD.kt" />
-    <MESSAGE value="add Person.kt" />
     <MESSAGE value="add PersonF.kt" />
     <MESSAGE value="add EnkapsulasiA.kt" />
     <MESSAGE value="add EnkapsulasiB.kt" />
@@ -371,6 +382,8 @@
     <MESSAGE value="add NestedInnerClass.kt" />
     <MESSAGE value="add NestedInnerClassA.kt" />
     <MESSAGE value="add NestedInnerClassB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add NestedInnerClassB.kt" />
+    <MESSAGE value="add DataClassA.kt" />
+    <MESSAGE value="add DataClassB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DataClassB.kt" />
   </component>
 </project>
