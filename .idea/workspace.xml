@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add DataClassB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassC.kt" afterDir="false" />
-    </list>
+    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add DataClassE.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,14 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.DataClassEKt">
-    <configuration name="DataClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassAKt" />
-      <module name="KonsepOop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.DataClassFKt">
     <configuration name="DataClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassBKt" />
       <module name="KonsepOop" />
@@ -73,13 +64,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DataClassFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassFKt" />
+      <module name="KonsepOop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassFKt" />
         <item itemvalue="Kotlin.DataClassEKt" />
         <item itemvalue="Kotlin.DataClassDKt" />
         <item itemvalue="Kotlin.DataClassCKt" />
         <item itemvalue="Kotlin.DataClassBKt" />
-        <item itemvalue="Kotlin.DataClassAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +342,28 @@
       <option name="project" value="LOCAL" />
       <updated>1727417409038</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="add DataClassC.kt">
+      <created>1727418389405</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727418389405</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add DataClassD.kt">
+      <created>1727418540861</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1727418540861</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add DataClassE.kt">
+      <created>1727418643375</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1727418643375</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -359,9 +378,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add PersonF.kt" />
-    <MESSAGE value="add EnkapsulasiA.kt" />
-    <MESSAGE value="add EnkapsulasiB.kt" />
     <MESSAGE value="add InheritanceA.kt" />
     <MESSAGE value="add InheritanceB.kt" />
     <MESSAGE value="add InheritanceC.kt" />
@@ -384,6 +400,9 @@
     <MESSAGE value="add NestedInnerClassB.kt" />
     <MESSAGE value="add DataClassA.kt" />
     <MESSAGE value="add DataClassB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add DataClassB.kt" />
+    <MESSAGE value="add DataClassC.kt" />
+    <MESSAGE value="add DataClassD.kt" />
+    <MESSAGE value="add DataClassE.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add DataClassE.kt" />
   </component>
 </project>
