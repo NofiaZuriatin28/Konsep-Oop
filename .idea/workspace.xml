@@ -37,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.DataClassCKt">
+  <component name="RunManager" selected="Kotlin.DataClassDKt">
     <configuration name="DataClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassAKt" />
       <module name="KonsepOop" />
@@ -59,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DataClassDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassDKt" />
+      <module name="KonsepOop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NesteInnerClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.NesteInnerClassBKt" />
       <module name="KonsepOop" />
@@ -66,20 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.NestedInnerClassAKt" />
-      <module name="KonsepOop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassDKt" />
         <item itemvalue="Kotlin.DataClassCKt" />
         <item itemvalue="Kotlin.DataClassBKt" />
         <item itemvalue="Kotlin.DataClassAKt" />
         <item itemvalue="Kotlin.NesteInnerClassBKt" />
-        <item itemvalue="Kotlin.NestedInnerClassAKt" />
       </list>
     </recent_temporary>
   </component>
