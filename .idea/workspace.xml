@@ -37,14 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.InterfaceDKt">
-    <configuration name="AbstractClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AbstractClassKt" />
-      <module name="KonsepOop" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.NestedInnerClassKt">
     <configuration name="InterfaceAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InterfaceAKt" />
       <module name="KonsepOop" />
@@ -73,13 +66,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.NestedInnerClassKt" />
+      <module name="KonsepOop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NestedInnerClassKt" />
         <item itemvalue="Kotlin.InterfaceDKt" />
         <item itemvalue="Kotlin.InterfaceCKt" />
         <item itemvalue="Kotlin.InterfaceBKt" />
         <item itemvalue="Kotlin.InterfaceAKt" />
-        <item itemvalue="Kotlin.AbstractClassKt" />
       </list>
     </recent_temporary>
   </component>
