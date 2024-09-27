@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add NestedInnerClass.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/NestedInnerClassA.kt" afterDir="false" />
+    <list default="true" id="36752d24-ed04-4bd0-9d20-69afb876c708" name="Changes" comment="add NestedInnerClassB.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +38,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.NesteInnerClassBKt">
-    <configuration name="InterfaceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InterfaceCKt" />
+  <component name="RunManager" selected="Kotlin.DataClassAKt">
+    <configuration name="DataClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.DataClassAKt" />
       <module name="KonsepOop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassAKt" />
         <item itemvalue="Kotlin.NesteInnerClassBKt" />
         <item itemvalue="Kotlin.NestedInnerClassAKt" />
         <item itemvalue="Kotlin.NestedInnerClassKt" />
         <item itemvalue="Kotlin.InterfaceDKt" />
-        <item itemvalue="Kotlin.InterfaceCKt" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +317,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727415706128</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="add NestedInnerClassA.kt">
+      <created>1727415876079</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1727415876079</updated>
+    </task>
+    <task id="LOCAL-00034" summary="add NestedInnerClassB.kt">
+      <created>1727416052114</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1727416052114</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -331,8 +346,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add PersonB.kt" />
-    <MESSAGE value="add Personc.kt" />
     <MESSAGE value="add PersonD.kt" />
     <MESSAGE value="add Person.kt" />
     <MESSAGE value="add PersonF.kt" />
@@ -356,6 +369,8 @@
     <MESSAGE value="add InterfaceC.kt" />
     <MESSAGE value="add InterfaceD.kt" />
     <MESSAGE value="add NestedInnerClass.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add NestedInnerClass.kt" />
+    <MESSAGE value="add NestedInnerClassA.kt" />
+    <MESSAGE value="add NestedInnerClassB.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add NestedInnerClassB.kt" />
   </component>
 </project>
