@@ -7,4 +7,5 @@ fun main() {
     val age = meri.component2()
     println("Name = $name")
     println("Age = $age")
+    //
 }
